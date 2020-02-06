@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SistemaVB", "SistemaVB\SistemaVB.vbproj", "{168C529E-C02E-46A3-AB23-B90441102D70}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CapaConexion", "CapaConexion\CapaConexion.vbproj", "{54F9783C-440A-4FD8-A1DB-DBFAB131FF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{168C529E-C02E-46A3-AB23-B90441102D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168C529E-C02E-46A3-AB23-B90441102D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168C529E-C02E-46A3-AB23-B90441102D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168C529E-C02E-46A3-AB23-B90441102D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F9783C-440A-4FD8-A1DB-DBFAB131FF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F9783C-440A-4FD8-A1DB-DBFAB131FF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F9783C-440A-4FD8-A1DB-DBFAB131FF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F9783C-440A-4FD8-A1DB-DBFAB131FF41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ACCA1EA-793B-4D07-AE4B-72DE4390E3A1}
+	EndGlobalSection
+EndGlobal
